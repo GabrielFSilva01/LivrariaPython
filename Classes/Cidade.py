@@ -3,4 +3,4 @@ from dataclasses import dataclass
 class Cidade:
     codigo: int
     descricao: str
-    
+    uf: str

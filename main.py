@@ -42,4 +42,7 @@ def menu_principal():
             print("Opção inválida. Tente novamente.")
 
 if __name__ == "__main__":
-    menu_principal()
+   
+    menu_principal() 
+
+   
